@@ -1,127 +1,125 @@
-*
-{
+* {
     margin: 0;
     padding: 0;
 }
-#navbar
-{
-    
-    top:0;
-    z-index:0;
-    padding-left:30px;
-    
-}
-.navbar-brand img
-{
-    height:40 px;
-    padding-left: 30 px;
-    
+
+#navbar {
+
+    top: 0;
+    z-index: 0;
 
 }
-.navbar-nav li
-{
+
+.navbar-brand img {
+    height: 40 px;
+    padding-left: 30 px;
+
+
+}
+
+.navbar-nav li {
     padding: 0 10px;
 
 }
-.navbar-nav li 
-{
+
+.navbar-nav li {
     float: right;
     text-align: left;
 
 }
-#nav-bar ul li a:hover
-{
-    color: #007bff!important;
+
+#nav-bar ul li a:hover {
+    color: #007bff !important;
 
 }
-.nav-link
-{
-    color: #555!important;
+
+.nav-link {
+    color: #555 !important;
     font-weight: 600;
     font-size: 16px;
 }
-#about
-{
-    padding-top:50px;
-    padding-bottom:50px; 
-    padding-left:100px;
-    color:#555;
-}
-#about button
-{
-    margin-top:20px;
-    margin-bottom:20 px;
+
+#about {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    color: #555;
 }
 
-.about content{
-    padding-top:50px;
-    
+#about button {
+    margin-top: 20px;
+    margin-bottom: 20 px;
 }
-#team
-{
-    padding-top:50px;
-    padding-bottom:50px;
-    padding-left:100px;
-    color:#555;
+
+.about content {
+    padding-top: 50px;
+
 }
-h1
-{
-    text-align:center;
-    padding-top:10px;
-    color:#555!important;
+
+#team {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    color: #555;
 }
-h1::after
-{
-    content:'';
+
+h1 {
+    text-align: center;
+    padding-top: 10px;
+    color: #555 !important;
+}
+
+h1::after {
+    content: '';
     background: #007bff;
     display: block;
     width: 170px;
     height: 3px;
     margin: 20px auto 5px;
 }
-#new entry
-{
+
+#new entry {
     padding-bottom: 100px;
 }
-#signin
-{
-    padding-left:100px;
-    padding-top:100px;
-    padding-bottom:20px;
-}
-#hemanth
-{
-    padding-top:150px;
-    padding-bottom:50px; 
-    padding-left:100px;
-}
-#alphabet
-{
-    padding-top:50px;
-   
-    padding-left:650px;
 
-    
+#signin {
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-bottom: 20px;
 }
-#alekhya
-{
-   
-   
-    padding-left:653px;
-   
 
-    
+#hemanth {
+    padding-top: 150px;
+    padding-bottom: 50px;
+    padding-left: 100px;
 }
-#lakshmi
-{
-   
-   
-    padding-left:647px;
+
+#alphabet {
+    padding-top: 50px;
+
+    padding-left: 650px;
+
+
+}
+
+#alekhya {
+
+
+    padding-left: 653px;
+
+
+
+}
+
+#lakshmi {
+
+
+    padding-left: 647px;
     padding-bottom: 50px;
 
-    
+
 }
-#vasu
-{
+
+#vasu {
     padding-left: 100px;
 }
